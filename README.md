@@ -1,4 +1,4 @@
 # cs116-work
 Computer Science 116 class work at Ohlone College
 
-This course involves the study and implementation of data structure programming techniques. The emphasis is on the data structures of stacks, queues, lists, trees, and hash tables; the use of recursion; and the application of these tools primarily to searching and sorting. Students implement these concepts by writing programs in an object-oriented language such as C.
+This intermediate-level programming course is intended for students who have already completed an introductory programming course. This course presents a comprehensive study of the C programming language and its role in the realm of object-oriented programming. The C language supports input/output streams; class constructs; inheritance; polymorphism; function and operator overloading; function and class templates; and exception handling.
